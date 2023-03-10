@@ -1,0 +1,8 @@
+C:\Users\szabi\source\repos\adatgen\adatgen\bin\Debug\adatgen.exe.config
+C:\Users\szabi\source\repos\adatgen\adatgen\bin\Debug\adatgen.exe
+C:\Users\szabi\source\repos\adatgen\adatgen\bin\Debug\adatgen.pdb
+C:\Users\szabi\source\repos\adatgen\adatgen\obj\Debug\adatgen.csproj.AssemblyReference.cache
+C:\Users\szabi\source\repos\adatgen\adatgen\obj\Debug\adatgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabi\source\repos\adatgen\adatgen\obj\Debug\adatgen.csproj.CoreCompileInputs.cache
+C:\Users\szabi\source\repos\adatgen\adatgen\obj\Debug\adatgen.exe
+C:\Users\szabi\source\repos\adatgen\adatgen\obj\Debug\adatgen.pdb
